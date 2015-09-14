@@ -1,4 +1,5 @@
-WHEAT BY CLASS BREAKDOWN The U.S. Agriculture Department gave the 1986/87 breakdown of supply and distribution for wheats by classes , in mln bushels , with comparisons , as follows .
+WHEAT BY CLASS BREAKDOWN .
+The U.S. Agriculture Department gave the 1986/87 breakdown of supply and distribution for wheats by classes , in mln bushels , with comparisons , as follows .
 HARD WINTER -- 1986/87 1985/86 04/09/87 03/09/87 04/09/87 03/09/87 Start Stocks 1,009 1,009 717 717 Production 1,018 1,018 1,230 1,230 Ttl Supply-X 2,027 2,027 1,947 1,947 Domestic Use 599 579 543 543 Exports 450 475 395 395 Total Use 1,049 1,054 938 938 End Stocks 978 973 1,009 1,009 Note - Season begins June 1 .
 X-Includes imports HARD SPRING -- 1986/87 1985/86 04/09/87 03/09/87 04/09/87 03/09/87 Start Stocks 498 498 371 371 Production 451 451 460 460 Ttl Supply-X 956 956 838 838 Domestic Use 218 192 174 174 Exports 200 190 166 166 Total Use 418 382 340 340 End Stocks 538 574 498 498 Note - Season begins June 1 .
 X-Includes imports .

@@ -1,4 +1,5 @@
-TIME < TL > 1987 EARNINGS MAY BE 4.25 DLRS SHARE Time Inc 's chief financial officer , Thayer Bigelow , told security analysts the company is `` comfortable '' with Wall Street estimates that 1987 earnings will be in a range of 3.75 dlrs to 4.25 dlrs per share .
+TIME < TL > 1987 EARNINGS MAY BE 4.25 DLRS SHARE .
+Time Inc 's chief financial officer , Thayer Bigelow , told security analysts the company is `` comfortable '' with Wall Street estimates that 1987 earnings will be in a range of 3.75 dlrs to 4.25 dlrs per share .
 In 1986 , Time reported earnings of 5.95 dlrs per share , including a number of special items .
 Bigelow said in adjusting the 1986 results for the special items and also removing the earnings of American Television and Communications Corp < ATCMA > , Time earned 2.35 dlrs per share in 1986 .
 Turner Broadcasting System Inc said the investment by the cable consortium would be in Turner Broadcasting , not directly in CNN .

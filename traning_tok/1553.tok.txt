@@ -1,4 +1,5 @@
-FED DRAFTS CURRENCY , RATE SWAP RISK GAUGE The Federal Reserve Board voted unanimously to propose a formula for calculating the risk of interest rate and currency swaps as part of its ongoing effort to come up with a new capital standard for U.S. banks that takes into account the riskiness of a bank 's loans and other assets .
+FED DRAFTS CURRENCY , RATE SWAP RISK GAUGE .
+The Federal Reserve Board voted unanimously to propose a formula for calculating the risk of interest rate and currency swaps as part of its ongoing effort to come up with a new capital standard for U.S. banks that takes into account the riskiness of a bank 's loans and other assets .
 Fed officials said an identical proposal was being issues today by the Bank of England .
 The Fed set a 60-day period for public comment on the plan .
 The proposal adopted today addresses only the credit risks associated with interest rate swaps , forward foreign exchange contracts and similar financial instruments .

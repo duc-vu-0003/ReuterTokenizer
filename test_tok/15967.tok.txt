@@ -1,4 +1,5 @@
-PATIENT < PTI > CONSIDERING DEBT RESTRUCTURING Patient Technology Inc said it retained an investment banking firm to consider alternatives in restructuring its long-term debt , including a possible exchange offer for 20 mln dlrs of outstanding convertible debentures .
+PATIENT < PTI > CONSIDERING DEBT RESTRUCTURING .
+Patient Technology Inc said it retained an investment banking firm to consider alternatives in restructuring its long-term debt , including a possible exchange offer for 20 mln dlrs of outstanding convertible debentures .
 On April one , it began consolidating sales , marketing and manufacturing operations .
 The consolidation is expected to be complete by June one and the company said it is now focusing on restructuring its balance sheet .
 The company said the first quarter will be adversely affected by the consolidation effort .

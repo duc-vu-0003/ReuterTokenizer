@@ -1,4 +1,5 @@
-ACTON < ATN > TO SELL UNIT FOR GAIN Acton Corp said it has agreed to sell its five Michigan cable television systems to Wisconsin Cablevision Inc for about 9,500,000 dlrs , resulting in a gain of about six mln dlrs .
+ACTON < ATN > TO SELL UNIT FOR GAIN .
+Acton Corp said it has agreed to sell its five Michigan cable television systems to Wisconsin Cablevision Inc for about 9,500,000 dlrs , resulting in a gain of about six mln dlrs .
 The company said the sale is subject to review by local authorities .
 The systems have about 7,500 subscribers .
 Acton said proceeds will be used to retire bank debt .

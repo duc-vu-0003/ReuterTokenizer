@@ -1,4 +1,5 @@
-CONTROL DATA < CDA > TO BUY PERIPHERALS STAKE Control Data Corp said it agreed to acquire Unisys Inc 's < UIS > 13 pct stake in < Magnetic Peripherals Inc > .
+CONTROL DATA < CDA > TO BUY PERIPHERALS STAKE .
+Control Data Corp said it agreed to acquire Unisys Inc 's < UIS > 13 pct stake in < Magnetic Peripherals Inc > .
 The letter of intent provides that Unisys converts from an owner in Magnetic Peripherals to a customer of Control Data 's data storage products group over a two year period .
 Under the agreement , Control Data will continue to furnish disk drives to Unisys , it said .
 No other details of the proposed agreement were available .

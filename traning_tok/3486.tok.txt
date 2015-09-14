@@ -1,4 +1,5 @@
-GKN PLC < GKNL.L > 1986 YEAR Shr 28.5 p vs 26.6 p. Final div 8p , making 13p vs 12p .
+GKN PLC < GKNL.L > 1986 YEAR .
+Shr 28.5 p vs 26.6 p. Final div 8p , making 13p vs 12p .
 Pre-tax profit 132.4 mln stg vs 132.7 mln .
 Net profit befire minorities 81.0 mln vs 74.4 mln .
 Sales 2.06 billion stg vs 2.20 billion .

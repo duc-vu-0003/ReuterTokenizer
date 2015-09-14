@@ -1,4 +1,5 @@
-DATACARD < DATC.O > ADOPTS DIVIDEND RIGHTS PLAN DataCard Corp said it adopted a dividend rights plan in response to Deluxe Check Printers Inc < DLX > having agreed to sell its 38 pct interest in DataCard to National Computer Systems Inc < NLCS.O > .
+DATACARD < DATC.O > ADOPTS DIVIDEND RIGHTS PLAN .
+DataCard Corp said it adopted a dividend rights plan in response to Deluxe Check Printers Inc < DLX > having agreed to sell its 38 pct interest in DataCard to National Computer Systems Inc < NLCS.O > .
 DataCard declared a dividend distribution of one preferred stock purchase right on each outstanding share its common stock .
 The dividend is designed to deter National Computer or other potential suitors from preventing DataCard from evaluating all alternatives to maximize shareholder value , DataCard said .
 National Computer told Reuters June 22 it could make a bid for DataCard .

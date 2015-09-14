@@ -1,4 +1,5 @@
-BASF < BASF.F > SAYS 1986 RESULTS AFFECTED BY DLR BASF AG said the volatile currency situation last year , particularly the fall of the dollar , led to sharp drops in turnover denominated in marks and to price reductions for exports from domestic production .
+BASF < BASF.F > SAYS 1986 RESULTS AFFECTED BY DLR .
+BASF AG said the volatile currency situation last year , particularly the fall of the dollar , led to sharp drops in turnover denominated in marks and to price reductions for exports from domestic production .
 But in a statement accompanying year-end figures , the group said it expected satisfactory business development over the next months .
 `` At the moment we do not expect any extraordinary influences such as there were last year , '' it said .
 Orders in hand and incoming orders were steady at a high level .

@@ -1,4 +1,5 @@
-BASF AG < BASF.F > 1986 YEAR Year to December 31 .
+BASF AG < BASF.F > 1986 YEAR .
+Year to December 31 .
 World group pre-tax profit 2.63 billion marks vs 3.04 billion .
 World group turnover 40.47 billion vs 44.38 billion .
 World group investment in fixed assets 2.66 billion vs 2.46 billion .

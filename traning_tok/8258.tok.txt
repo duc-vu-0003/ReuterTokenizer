@@ -1,4 +1,5 @@
-AMERICAN MOTORS < AMO > STATEMENT QUALIFIED American Motors Corp said its auditors qualified the company 's 1986 financial report .
+AMERICAN MOTORS < AMO > STATEMENT QUALIFIED .
+American Motors Corp said its auditors qualified the company 's 1986 financial report .
 The report was qualified due to uncertainties surrounding the previously announced arbitration award against American Motors ' former subsidiary , AM General Corp. .
 The award is being contested .
 The report was filed today with the Securities and Exchange Commission along with a copy of Chrysler Corp 's < C > proposal to take over American Motors .

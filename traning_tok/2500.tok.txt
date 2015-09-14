@@ -1,4 +1,5 @@
-CHEMLAWN < CHEM > REJECTS WASTE 'S < WMX > OFFER ChemLawn Corp said its board rejected Waste Management Inc 's 27 dlr-per-share tender offer and urged its shareholders not to tender their shares .
+CHEMLAWN < CHEM > REJECTS WASTE 'S < WMX > OFFER .
+ChemLawn Corp said its board rejected Waste Management Inc 's 27 dlr-per-share tender offer and urged its shareholders not to tender their shares .
 ChemLawn said its board asked management and its financial advisor , Smith Barney , Harris Upham And Co Inc , to seek other purchasers of the company to maximize shareholder value .
 ChemLawn also said it adopted a shareholder rights plan , or `` poison pill , '' during a 120-intermin safeguard period its board adopted to deter attempts to acquire the company through any means other than an all-cash tender offer while it seeks other purchasers .
 ChemLawn also said it began litigation against Waste Management in federal court in Columbus , seeking injunctive and other relief .

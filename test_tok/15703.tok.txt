@@ -1,4 +1,5 @@
-MONSANTO < MTC > UNIT SEES OPERATING LOSS IN 1987 Monsanto Corp 's G.D. Searle and Co unit said it will report an operating loss for 1987 , mainly due to expenses for research and development .
+MONSANTO < MTC > UNIT SEES OPERATING LOSS IN 1987 .
+Monsanto Corp 's G.D. Searle and Co unit said it will report an operating loss for 1987 , mainly due to expenses for research and development .
 Searle chairman Sheldon Gilgore said Searle 's operating loss in 1987 will be less than the 87 mln dlr operating loss in 1986 .
 He said Searle 's first quarter sales will be up 21.8 pct to 179 mln dlrs from 147 mln dlrs in the year ago quarter .
 In 1986 Searle 's sales were 665 mln dlrs .

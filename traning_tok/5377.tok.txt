@@ -1,4 +1,5 @@
-ENDOTRONICS < ENDO > EXPECTS LOSS FOR YEAR Endotronics Inc said it expects to incur `` substantial losses '' for the second quarter ending March 31 and fiscal year ending Sept 30 , 1987 .
+ENDOTRONICS < ENDO > EXPECTS LOSS FOR YEAR .
+Endotronics Inc said it expects to incur `` substantial losses '' for the second quarter ending March 31 and fiscal year ending Sept 30 , 1987 .
 As one factor behind the anticipated loss , Endotronics cited a dispute by one of its Japanese distributors , < Yamaha Inc > , over payment of a 3,686,000 dlr promissory note .
 In a Form 8-K filing with the Securities and Exchange Commission , Endotronics said the note was for overdue accounts receivable from sales of instruments to Yamaha and another Japanese distributor during the company 's 1986 fiscal year .
 Endotronics said at its present reduced level of operations it will exhaust all currently available cash and credit facilities in early May 1987 .

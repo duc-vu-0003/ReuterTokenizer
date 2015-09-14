@@ -1,4 +1,5 @@
-HORN/HARDART < HOR > UNIT DISPOSES 33 RESTAURANTS Horn and Hardart Co said it disposed of 33 Bojangles ' Chicken 'N Biscuits restaurants in Florida as part of its previously announced retrenchment of its Bojangles ' subsidiary .
+HORN/HARDART < HOR > UNIT DISPOSES 33 RESTAURANTS .
+Horn and Hardart Co said it disposed of 33 Bojangles ' Chicken 'N Biscuits restaurants in Florida as part of its previously announced retrenchment of its Bojangles ' subsidiary .
 Terms were not disclosed .
 The company said the restaurants in Orlando , Tampa and Jacksonville markets have incurred the majority of Bojangles ' operating losses over the last two years .
 Due to the transaction , Horn and Hardart is projecting a positive cash flow for the unit for the remainder of fiscal 1987 .

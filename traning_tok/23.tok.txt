@@ -1,4 +1,5 @@
-BROWN-FORMAN < BFDB > SETS STOCK SPLIT , UPS PAYOUT Brown-Forman Inc said its board has approved a three-for-two stock split and a 35 pct increase in the company cash dividend .
+BROWN-FORMAN < BFDB > SETS STOCK SPLIT , UPS PAYOUT .
+Brown-Forman Inc said its board has approved a three-for-two stock split and a 35 pct increase in the company cash dividend .
 The company cited its improved earnings outlook and continued strong cash flow as reasons for raising the dividend .
 Brown-Forman said the split of its Class A and Class B common shares would be effective March 13 .
 The company said directors declared a quarterly cash dividend on each new share of both classes of 28 cts , payable April one to holders of record March 20 .

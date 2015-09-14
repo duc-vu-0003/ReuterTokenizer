@@ -1,4 +1,5 @@
-AVERY < AVRY > SEES QTR , YEAR LOSS Avery Inc said the company will not show a profit in the next quarter and will probably not show a profit in 1987 .
+AVERY < AVRY > SEES QTR , YEAR LOSS .
+Avery Inc said the company will not show a profit in the next quarter and will probably not show a profit in 1987 .
 Speaking at the annual shareholders meeting , chairman Nelson Peltz declined to estimate when the company would become profitable .
 Peltz said Uniroyal Chemical Co , acquired last year , would increase Avery 's operating earnings but that associated acquisition costs would prevent Avery from posting net profits for some time .
 At the meeting , stockholders approved an increase in the authorized number of common shares to 200 mln from 15 mln .

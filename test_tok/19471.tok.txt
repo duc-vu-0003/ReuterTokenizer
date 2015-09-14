@@ -1,4 +1,5 @@
-TENNECO < TGT > TO TRANSPORT GAS ON OPEN ACCESS Tenneco Inc said Tennessee Gas Pipeline Co , its largest interstate natural gas pipeline , will transport natural gas under the open access rules of the Federal Energy Regulatory Commission , FERC .
+TENNECO < TGT > TO TRANSPORT GAS ON OPEN ACCESS .
+Tenneco Inc said Tennessee Gas Pipeline Co , its largest interstate natural gas pipeline , will transport natural gas under the open access rules of the Federal Energy Regulatory Commission , FERC .
 In open access , gas pipelines serve purely as a transport company , moving gas from suppliers to customers .
 Pipelines also transport its own gas to customers .
 Earlier this week , Transco Energy Co < T > rejected the FERC guidelines , saying it would not offer open access until the regulatory body offers a solution to the exposure it faces for gas it has bought but could not sell .
